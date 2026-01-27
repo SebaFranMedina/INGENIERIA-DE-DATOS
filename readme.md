@@ -1,0 +1,1 @@
+Pipeline de Data Lake que ingesta datos meteorológicos y de calidad del aire desde Open-Meteo mediante extracciones FULL e INCREMENTAL a una capa Bronze en MinIO con Delta Lake, y luego los limpia, transforma, enriquece y agrega para generar datasets horarios y diarios en la capa Silver, aplicando buenas prácticas y manejo seguro de credenciales.
