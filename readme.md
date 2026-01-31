@@ -42,13 +42,16 @@ Se consumen **dos endpoints**:
 
 ---
 
-### 📂 Estructura Bronze
-text
+### 📂 Estructura generada en Bronze
+```text
 bronze/
 ├── full/
 │   ├── weather/
 │   └── air_quality/
 └── incremental/
+    ├── weather/date=YYYY-MM-DD/
+    └── air_quality/date=YYYY-MM-DD/
+```
 
 ## 🥈 Parte 2 – Capa Silver (Transformación y Agregación)
 
