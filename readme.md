@@ -43,7 +43,7 @@ Se consumen **dos endpoints**:
 ---
 
 ### 📂 Estructura Bronze
-```text
+text
 bronze/
 ├── full/
 │   ├── weather/
