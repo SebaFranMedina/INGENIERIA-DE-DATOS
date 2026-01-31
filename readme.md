@@ -129,5 +129,4 @@ Se generan variables derivadas para análisis avanzado:
 - Credenciales gestionadas mediante variables de entorno o archivo `.env`.
 - No se exponen claves ni información sensible en el código.
 
-    ├── weather/date=YYYY-MM-DD/
-    └── air_quality/date=YYYY-MM-DD/
+
